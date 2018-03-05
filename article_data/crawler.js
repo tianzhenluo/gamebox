@@ -1,6 +1,4 @@
-/*
-*爬取18183王者荣耀专区的文章，保存到本地的数据库
-*/
+/* */
 
 const mysql = require('mysql')
 const cheerio = require('cheerio')

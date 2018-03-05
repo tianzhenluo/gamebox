@@ -1,3 +1,5 @@
+/*英雄页，爬虫，存储格式（json文件），图片保存在本地*/
+
 const http = require('http')
 const cheerio = require('cheerio')
 const fs = require('fs')
@@ -7,8 +9,6 @@ const request = require('request')
 
 
 /* 本地生成json 对应英雄名称，英雄类型 */
-
-
 
 request({
 	url: 'http://db.18183.com/wzry/',
