@@ -1,0 +1,476 @@
+{
+	"9501": {
+		"category": "mage",
+		"price": "13888",
+		"name": "高渐离",
+		"url": "hero/1.png"
+	},
+	"9502": {
+		"category": "mage,support",
+		"price": "6888",
+		"name": "姜子牙",
+		"url": "hero/2.png"
+	},
+	"9503": {
+		"category": "fighter",
+		"price": "13888",
+		"name": "典韦",
+		"url": "hero/3.png"
+	},
+	"9504": {
+		"category": "mage",
+		"price": "2888",
+		"name": "甄姬",
+		"url": "hero/4.png"
+	},
+	"9505": {
+		"category": "marksman",
+		"price": "8888",
+		"name": "鲁班七号",
+		"url": "hero/5.png"
+	},
+	"9506": {
+		"category": "tank",
+		"price": "2888",
+		"name": "刘禅",
+		"url": "hero/6.png"
+	},
+	"9507": {
+		"category": "tank,fighter",
+		"price": "0",
+		"name": "亚瑟",
+		"url": "hero/7.png"
+	},
+	"9508": {
+		"category": "fighter",
+		"price": "8888",
+		"name": "老夫子",
+		"url": "hero/8.png"
+	},
+	"9509": {
+		"category": "mage",
+		"price": "0",
+		"name": "妲己",
+		"url": "hero/9.png"
+	},
+	"9510": {
+		"category": "mage",
+		"price": "5888",
+		"name": "小乔",
+		"url": "hero/10.png"
+	},
+	"9511": {
+		"category": "mage",
+		"price": "8888",
+		"name": "安琪拉",
+		"url": "hero/11.png"
+	},
+	"9512": {
+		"category": "mage,support",
+		"price": "5888",
+		"name": "扁鹊",
+		"url": "hero/12.png"
+	},
+	"9513": {
+		"category": "marksman",
+		"price": "8888",
+		"name": "狄仁杰",
+		"url": "hero/13.png"
+	},
+	"9514": {
+		"category": "fighter,assassin",
+		"price": "0",
+		"name": "韩信",
+		"url": "hero/14.png"
+	},
+	"9515": {
+		"category": "tank,fighter",
+		"price": "13888",
+		"name": "程咬金",
+		"url": "hero/15.png"
+	},
+	"9516": {
+		"category": "tank",
+		"price": "0",
+		"name": "项羽",
+		"url": "hero/16.png"
+	},
+	"9517": {
+		"category": "mage,support",
+		"price": "5888",
+		"name": "孙膑",
+		"url": "hero/70-1F60G35112.jpg"
+	},
+	"9518": {
+		"category": "tank,fighter",
+		"price": "5888",
+		"name": "钟无艳",
+		"url": "hero/18.png"
+	},
+	"9519": {
+		"category": "mage",
+		"price": "0",
+		"name": "嬴政",
+		"url": "hero/19.png"
+	},
+	"9520": {
+		"category": "mage",
+		"price": "0",
+		"name": "武则天",
+		"url": "hero/20.png"
+	},
+	"9521": {
+		"category": "tank,support",
+		"price": "2888",
+		"name": "庄周",
+		"url": "hero/21.png"
+	},
+	"9522": {
+		"category": "fighter",
+		"price": "13888",
+		"name": "达摩",
+		"url": "hero/22.png"
+	},
+	"9523": {
+		"category": "mage",
+		"price": "8888",
+		"name": "王昭君",
+		"url": "hero/70-1FQ0115228.jpg"
+	},
+	"9524": {
+		"category": "marksman",
+		"price": "5888",
+		"name": "孙尚香",
+		"url": "hero/24.png"
+	},
+	"9525": {
+		"category": "fighter,assassin",
+		"price": "0",
+		"name": "赵云",
+		"url": "hero/25.png"
+	},
+	"9526": {
+		"category": "tank",
+		"price": "8888",
+		"name": "廉颇",
+		"url": "hero/26.png"
+	},
+	"9527": {
+		"category": "tank,mage",
+		"price": "8888",
+		"name": "墨子",
+		"url": "hero/70-1F5231A423.jpg"
+	},
+	"9528": {
+		"category": "assassin",
+		"price": "13888",
+		"name": "阿轲",
+		"url": "hero/36-1611241H642.jpg"
+	},
+	"9529": {
+		"category": "tank",
+		"price": "13888",
+		"name": "白起",
+		"url": "hero/29.png"
+	},
+	"9530": {
+		"category": "tank,fighter",
+		"price": "18888",
+		"name": "吕布",
+		"url": "hero/30.png"
+	},
+	"9531": {
+		"category": "fighter,assassin",
+		"price": "18888",
+		"name": "孙悟空",
+		"url": "hero/31.png"
+	},
+	"9532": {
+		"category": "fighter",
+		"price": "13888",
+		"name": "曹操",
+		"url": "hero/32.png"
+	},
+	"9533": {
+		"category": "tank",
+		"price": "13888",
+		"name": "牛魔",
+		"url": "hero/33.png"
+	},
+	"9534": {
+		"category": "assassin,mage",
+		"price": "13888",
+		"name": "貂蝉",
+		"url": "hero/34.png"
+	},
+	"9535": {
+		"category": "tank,mage",
+		"price": "13888",
+		"name": "芈月",
+		"url": "hero/70-1F619153345.jpg"
+	},
+	"9536": {
+		"category": "mage",
+		"price": "13888",
+		"name": "张良",
+		"url": "hero/36.png"
+	},
+	"9537": {
+		"category": "mage",
+		"price": "13888",
+		"name": "周瑜",
+		"url": "hero/70-1F605114423.jpg"
+	},
+	"9538": {
+		"category": "fighter,assassin",
+		"price": "18888",
+		"name": "李白",
+		"url": "hero/38.png"
+	},
+	"9539": {
+		"category": "assassin",
+		"price": "0",
+		"name": "娜可露露",
+		"url": "hero/39.png"
+	},
+	"9540": {
+		"category": "assassin",
+		"price": "13888",
+		"name": "兰陵王",
+		"url": "hero/40.png"
+	},
+	"9541": {
+		"category": "fighter,assassin",
+		"price": "18888",
+		"name": "花木兰",
+		"url": "hero/36-1F3141K956.jpg"
+	},
+	"9542": {
+		"category": "fighter",
+		"price": "18888",
+		"name": "宫本武藏",
+		"url": "hero/42.png"
+	},
+	"9543": {
+		"category": "fighter,mage",
+		"price": "13888",
+		"name": "露娜",
+		"url": "hero/43.png"
+	},
+	"9544": {
+		"category": "fighter",
+		"price": "13888",
+		"name": "刘备",
+		"url": "hero/44.png"
+	},
+	"9545": {
+		"category": "marksman",
+		"price": "6888",
+		"name": "后羿",
+		"url": "hero/45.png"
+	},
+	"9546": {
+		"category": "tank,fighter",
+		"price": "18888",
+		"name": "钟馗",
+		"url": "hero/46.png"
+	},
+	"9547": {
+		"category": "tank,support",
+		"price": "13888",
+		"name": "张飞",
+		"url": "hero/47.png"
+	},
+	"9548": {
+		"category": "marksman",
+		"price": "13888",
+		"name": "李元芳",
+		"url": "hero/48.png"
+	},
+	"9549": {
+		"category": "tank,support",
+		"price": "13888",
+		"name": "刘邦",
+		"url": "hero/49.png"
+	},
+	"9550": {
+		"category": "assassin,mage",
+		"price": "0",
+		"name": "不知火舞",
+		"url": "hero/50.png"
+	},
+	"9551": {
+		"category": "marksman",
+		"price": "13888",
+		"name": "虞姬",
+		"url": "hero/51.png"
+	},
+	"9552": {
+		"category": "tank,fighter",
+		"price": "18888",
+		"name": "关羽",
+		"url": "hero/52.png"
+	},
+	"9553": {
+		"category": "support",
+		"price": "13888",
+		"name": "蔡文姬",
+		"url": "hero/53.png"
+	},
+	"9554": {
+		"category": "tank,fighter",
+		"price": "13888",
+		"name": "夏侯惇",
+		"url": "hero/54.png"
+	},
+	"9555": {
+		"category": "tank,fighter",
+		"price": "18888",
+		"name": "雅典娜",
+		"url": "hero/36-161124154431.jpg"
+	},
+	"9556": {
+		"category": "marksman",
+		"price": "13888",
+		"name": "马可波罗",
+		"url": "hero/56.png"
+	},
+	"9557": {
+		"category": "fighter",
+		"price": "0",
+		"name": "橘右京",
+		"url": "hero/57.png"
+	},
+	"11824": {
+		"category": "marksman",
+		"price": "18888",
+		"name": "成吉思汗",
+		"url": "hero/36-1606021K55X42.jpg"
+	},
+	"11825": {
+		"category": "fighter",
+		"price": "18888",
+		"name": "杨戬",
+		"url": "hero/36-160Z51132330-L.jpg"
+	},
+	"12551": {
+		"category": "tank,support",
+		"price": "13888",
+		"name": "太乙真人",
+		"url": "hero/36-161124154638.jpg"
+	},
+	"13004": {
+		"category": "fighter",
+		"price": "18888",
+		"name": "哪吒",
+		"url": "hero/70-1F112154602.jpg"
+	},
+	"13049": {
+		"category": "mage",
+		"price": "18888",
+		"name": "诸葛亮",
+		"url": "hero/36-1F401164257.jpg"
+	},
+	"13073": {
+		"category": "marksman",
+		"price": "13888",
+		"name": "黄忠",
+		"url": "hero/36-1F22QP115.jpg"
+	},
+	"13091": {
+		"category": "support",
+		"price": "13888",
+		"name": "大乔",
+		"url": "hero/36-1F22QP045.jpg"
+	},
+	"13141": {
+		"category": "marksman",
+		"price": "0",
+		"name": "艾琳",
+		"url": "hero/36-1F30GT521.jpg"
+	},
+	"13255": {
+		"category": "tank",
+		"price": "13888",
+		"name": "东皇太一",
+		"url": "hero/36-1F323141Q8.jpg"
+	},
+	"14488": {
+		"category": "mage",
+		"price": "18888",
+		"name": "干将莫邪",
+		"url": "hero/36-1F424163110.jpg"
+	},
+	"15421": {
+		"category": "tank,fighter",
+		"price": "13888",
+		"name": "铠",
+		"url": "hero/70-1FGGA951.jpg"
+	},
+	"15436": {
+		"category": "support",
+		"price": "13888",
+		"name": "鬼谷子",
+		"url": "hero/70-1F60G42241.jpg"
+	},
+	"15450": {
+		"category": "mage",
+		"price": "13888",
+		"name": "女娲",
+		"url": "hero/36-1G114151F1.jpg"
+	},
+	"15462": {
+		"category": "assassin",
+		"price": "18888",
+		"name": "庞统",
+		"url": "hero/70-1F609153P3.png"
+	},
+	"15476": {
+		"category": "marksman",
+		"price": "13888",
+		"name": "百里守约",
+		"url": "hero/36-1FPQ64056.jpg"
+	},
+	"15549": {
+		"category": "tank",
+		"price": "13888",
+		"name": "苏烈",
+		"url": "hero/70-1FH0163S9.jpg"
+	},
+	"15567": {
+		"category": "assassin",
+		"price": "13888",
+		"name": "百里玄策",
+		"url": "hero/70-1FP3112601.jpg"
+	},
+	"15595": {
+		"category": "tank,mage",
+		"price": "13888",
+		"name": "梦奇",
+		"url": "hero/36-1F92Q10315.jpg"
+	},
+	"15737": {
+		"category": "support",
+		"price": "13888",
+		"name": "明世隐",
+		"url": "hero/36-1G11G50U9.jpg"
+	},
+	"15750": {
+		"category": "mage",
+		"price": "13888",
+		"name": "弈星",
+		"url": "hero/194-1G2061J226.jpg"
+	},
+	"15772": {
+		"category": "marksman",
+		"price": "13888",
+		"name": "公孙离",
+		"url": "hero/194-1P11G34244.jpg"
+	},
+	"15783": {
+		"category": "support",
+		"price": "13888",
+		"name": "杨玉环",
+		"url": "hero/194-1P11G44917.jpg"
+	}
+}
