@@ -7,14 +7,14 @@ const cheerio = require('cheerio')
 const request = require('request')
 const buffer = require('buffer')
 
+
+/* 本地数据库，地址连接池 */
 const db = mysql.createPool({
 	host: 'localhost',
 	user: 'root',
 	password: '123456',
-	database: 'gamebox'
+	database: 'gamebox'	//数据库名称
 })
-
-/* banner */
 
 
 /* 文章页 */
@@ -26,10 +26,9 @@ const end = 20	//我想要20页的数据
 for(; page<end; page++){
 	
 	/*
-	*发起请求，获取某一页列表的文章标题，配图，简介，内容
+	发起请求，获取某一页列表的文章标题，配图，简介，内容
 	*/
 
-	/* 
 	request({
 		url: 'http://www.18183.com/yxzjol/gonglue/list_13161_'+page+'.html',
 		headers: {
@@ -72,7 +71,6 @@ for(; page<end; page++){
 			}
 		}
 	})
- 	*/
 }
 
 
