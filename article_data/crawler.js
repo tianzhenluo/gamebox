@@ -1,4 +1,4 @@
-/* */
+/* 首页爬虫，文章列表 */
 
 const mysql = require('mysql')
 const cheerio = require('cheerio')
