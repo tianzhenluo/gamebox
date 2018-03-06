@@ -22,8 +22,6 @@
 > 
 > 本项目编写了两个小爬虫，`gamebox/article_data/index.js` 跟 `gamebox/article_data/crawler.js`
 
-```base
-
 `index.js爬虫`  负责爬取项目英雄页所需的数据
 
 目标地址：[王者荣耀英雄数据](http://db.18183.com/wzry/)
@@ -47,7 +45,7 @@
 	/* 数据我已经抓取到本地，如果想让爬虫工作可以这样运行 */
 	cd gamebox/article_data
 	node crawler.js
-```
+
 
 ### node server 篇
 > `gamebox`项目服务器，`article_data/server.js` 监听本地 `8088`端口
