@@ -3,7 +3,19 @@
 > 本项目是一个vue单页应用
 >  `gamebox`  所用到的技术栈包括有vue脚手架工具`vue-cli` `vue-router` `webpack`打包工具, `node.js`  `express` 
 > 采用node.js 编写后端api，提供项目数据
+```base
+项目启动
 
+首先需要你有一个本地的mysql服务器，新建数据库(gamebox)，将项目gamebox.sql导入到你的数据库中
+
+然后启动 node server.js
+
+最后启动前端项目，cd gamebox/gamebox
+		 
+		 cnpm install
+		 
+		 npm run dev
+```
 ### node 爬虫篇
 > 项目数据全部都是来源于18183王者荣耀专区pc，移动端
 > 
