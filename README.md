@@ -29,11 +29,11 @@
 用到模块：`cheerio` `fs` `url` `request`
 
 数据存储：将英雄logo爬取保存在本地，英雄名称，简介等等保存到一份本地 `hero.json` 文件中, `heroDesJson.json`是英雄详情页数据
-		
+	```javascript	
 	/* 数据我已经抓取到本地，如果想让爬虫工作可以这样运行 */
 	cd gamebox/article_data
 	node index.js
-		
+	```	
 `crawler.js` 负责爬取项目首页，视频页所需的数据
 
 目标地址：[首页数据](http://www.18183.com/yxzjol/gonglue/list_13161_1.html)    [视频页数据](http://m.18183.com/yxzjol/sp/)
