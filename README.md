@@ -3,6 +3,7 @@
 > 本项目是一个vue单页应用
 >  `gamebox`  所用到的技术栈包括有vue脚手架工具`vue-cli` `vue-router` `webpack`打包工具, `node.js`  `express` 
 > 采用node.js 编写后端api，提供项目数据
+
 ```base
 项目启动
 
@@ -16,6 +17,24 @@
 		 
 		 npm run dev
 ```
+
+### 页面介绍
+
+首页 上拉到底可加载更多数据
+
+![](https://github.com/tianzhenluo/gamebox/raw/master/demo/index.png)
+
+视频页
+
+![](https://github.com/tianzhenluo/gamebox/raw/master/demo/video.png)
+
+视频播放页
+
+![](https://github.com/tianzhenluo/gamebox/raw/master/demo/play.png)
+
+英雄页
+
+![](https://github.com/tianzhenluo/gamebox/raw/master/demo/hero.png)
 
 ### node 爬虫篇
 > 项目数据全部都是来源于18183王者荣耀专区pc，移动端
